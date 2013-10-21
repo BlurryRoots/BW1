@@ -1,3 +1,6 @@
+Syntaxhinweis:
+Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht auf den Folien auftauchen.
+
 -Einführung (7 min)
 
 	-Definition
@@ -9,15 +12,93 @@
 
 -Bekämpfung (13 min)
 
+	Packet
+		Vorraussetung / Sorgfalt / Einschränkungen - Überprüfender
+
 	-Akteure
+	
 		-Sorgfaltspflichtige
+			
+			{blurryroots}
+			1.
+			Gleichwertiger Drittstaat
+			
+			BRD - Finanzagentur GmbH
+			
+			Kapitalanlegegesellschaften
+			
+			Anwälte, Notare und Kammerrechtsbeistände
+			
+			{Abdulhamid}
+			2.
+			Kreditinstitute
+			
+			Finanzdienstleistungsinstitute
+			
+			Unternehmen, Agenten und Personen im Umgang mit E-Geld
+			
+			Versicherungen
+			
+			Treuhandunternehmen
+			
+			Immobilienmakler
+			
+			{blurryroots}
+			3.
+			Spielbanken
+			
+			Veranstalter/Vermittler Glückspiele im Internet
+			
+			x.
+			{blurryroots}
+			Wirtschaftlich Berechtigter
+
+			{Abdulhamid}
+			Personen (handeln mit Gütern)
+		
 		-Überprüfende
+		
+			Das Bundeskriminalamt – Zentralstelle für Verdachtsmeldungen
+			
+			Bundesministerium der Finanzen
+			
+			Bundesministerium des Innern
+			
+			Finanzagentur GmbH das Bundesministerium der Finanzen
+			
+			Bundesanstalt für Finanzdienstleistungsaufsicht
+			
+			Jeweils zuständige Aufsichtsbehörde für das Versicherungswesen
+			
+			Örtliche Rechtsanwaltskammer (§§ 60, 61 der Bundesrechtsanwaltsordnung)
+			
+			Patentsanwaltskammer (§ 53 der Patentanwaltsordnung)
+			
+			Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Nr. 1 der Bundesnotarordnung)
+
+				Für: Notare der jeweilige 
+
+			Wirtschaftsprüferkammer (§ 57 Abs. 2 Nr. 17 der Wirtschaftsprüferordnung)
+                
+				Für: Wirtschaftsprüfer und vereidigte Buchprüfer
+
+			Örtlich zuständige Steuerberaterkammer (§ 76 des Steuerberatungsgesetzes)
+
+				Für: Steuerberater und Steuerbevollmächtigte
+
+			Im Übrigen, nach Bundes- oder Landesrecht zuständige Stelle ???
+			
+			Europäischen Bankenaufsichtsbehörde 
+
+			Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung 
+
+			Europäischen Wertpapier- und Marktaufsichtsbehörde 
 
 	-Richtlinien/Vorgehensweisen
 		-Sorgfaltspflichtige
 		-Überprüfende
 
-
+{Abdel}
 -Probleme u. Vorschläge (Zusatz)
 
 
