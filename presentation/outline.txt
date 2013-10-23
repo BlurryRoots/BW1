@@ -1,19 +1,19 @@
 Syntaxhinweis:
 Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht auf den Folien auftauchen.
 
--Einführung (7 min)
+-Einfï¿½hrung (7 min)
 
 	-Definition
 	-Zweck
 	-Al Capone Gag
-	-3 Stufen der Geldwäsche
+	-3 Stufen der Geldwï¿½sche
 	-Beispiel
 
 
--Bekämpfung (13 min)
+-Bekï¿½mpfung (13 min)
 
 	Packet
-		Vorraussetung / Sorgfalt / Einschränkungen - Überprüfender
+		Vorraussetung / Sorgfalt / Einschrï¿½nkungen - ï¿½berprï¿½fender
 
 	-Akteure
 	
@@ -27,7 +27,7 @@ Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht a
 			
 			Kapitalanlegegesellschaften
 			
-			Anwälte, Notare und Kammerrechtsbeistände
+			Anwï¿½lte, Notare und Kammerrechtsbeistï¿½nde
 			
 			{Abdulhamid}
 			2.
@@ -47,18 +47,18 @@ Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht a
 			3.
 			Spielbanken
 			
-			Veranstalter/Vermittler Glückspiele im Internet
+			Veranstalter/Vermittler Glï¿½ckspiele im Internet
 			
 			x.
 			{blurryroots}
 			Wirtschaftlich Berechtigter
 
 			{Abdulhamid}
-			Personen (handeln mit Gütern)
+			Personen (handeln mit Gï¿½tern)
 		
-		-Überprüfende
+		-ï¿½berprï¿½fende
 		
-			Das Bundeskriminalamt – Zentralstelle für Verdachtsmeldungen
+			Das Bundeskriminalamt ï¿½ Zentralstelle fï¿½r Verdachtsmeldungen
 			
 			Bundesministerium der Finanzen
 			
@@ -66,42 +66,54 @@ Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht a
 			
 			Finanzagentur GmbH das Bundesministerium der Finanzen
 			
-			Bundesanstalt für Finanzdienstleistungsaufsicht
+			Bundesanstalt fï¿½r Finanzdienstleistungsaufsicht
 			
-			Jeweils zuständige Aufsichtsbehörde für das Versicherungswesen
+			Jeweils zustï¿½ndige Aufsichtsbehï¿½rde fï¿½r das Versicherungswesen
 			
-			Örtliche Rechtsanwaltskammer (§§ 60, 61 der Bundesrechtsanwaltsordnung)
+			ï¿½rtliche Rechtsanwaltskammer (ï¿½ï¿½ 60, 61 der Bundesrechtsanwaltsordnung)
 			
-			Patentsanwaltskammer (§ 53 der Patentanwaltsordnung)
+			Patentsanwaltskammer (ï¿½ 53 der Patentanwaltsordnung)
 			
-			Präsident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (§ 92 Nr. 1 der Bundesnotarordnung)
+			Prï¿½sident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (ï¿½ 92 Nr. 1 der Bundesnotarordnung)
 
-				Für: Notare der jeweilige 
+				Fï¿½r: Notare der jeweilige 
 
-			Wirtschaftsprüferkammer (§ 57 Abs. 2 Nr. 17 der Wirtschaftsprüferordnung)
+			Wirtschaftsprï¿½ferkammer (ï¿½ 57 Abs. 2 Nr. 17 der Wirtschaftsprï¿½ferordnung)
                 
-				Für: Wirtschaftsprüfer und vereidigte Buchprüfer
+				Fï¿½r: Wirtschaftsprï¿½fer und vereidigte Buchprï¿½fer
 
-			Örtlich zuständige Steuerberaterkammer (§ 76 des Steuerberatungsgesetzes)
+			ï¿½rtlich zustï¿½ndige Steuerberaterkammer (ï¿½ 76 des Steuerberatungsgesetzes)
 
-				Für: Steuerberater und Steuerbevollmächtigte
+				Fï¿½r: Steuerberater und Steuerbevollmï¿½chtigte
 
-			Im Übrigen, nach Bundes- oder Landesrecht zuständige Stelle ???
+			Im ï¿½brigen, nach Bundes- oder Landesrecht zustï¿½ndige Stelle ???
 			
-			Europäischen Bankenaufsichtsbehörde 
+			Europï¿½ischen Bankenaufsichtsbehï¿½rde 
 
-			Europäischen Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung 
+			Europï¿½ischen Aufsichtsbehï¿½rde fï¿½r das Versicherungswesen und die betriebliche Altersversorgung 
 
-			Europäischen Wertpapier- und Marktaufsichtsbehörde 
+			Europï¿½ischen Wertpapier- und Marktaufsichtsbehï¿½rde 
 
 	-Richtlinien/Vorgehensweisen
 		-Sorgfaltspflichtige
-		-Überprüfende
+		-ï¿½berprï¿½fende
 
 {Abdel}
--Probleme u. Vorschläge (Zusatz)
+-Probleme u. Vorschlï¿½ge (Zusatz)
 
 
+-Hier kommt es gezielt darauf an, die Kunden ganzheitlich zu prÃ¼fen â€“ und alle Risiken zu beobachten. Die Hauptkritikpunkte gegenÃ¼ber den Banken liegen in der mangelnden Ãœberwachung der Low-Risk-Kunden in Bezug auf Customer Due Diligence und TransaktionsÃ¼berwachungen
+
+Zahlreiche Banken haben schon eine Software-LÃ¶sung implementiert, die sÃ¤mtliche Transaktionen prÃ¼ft, die Risiken gewichtet und ungewÃ¶hnliche Transaktionen aufdeckt. Dies allein ist jedoch nach Meinung von Innovations nicht ausreichend. GemÃ¤ÃŸ den Customer Due Diligence Vorschriften sind sie dazu verpflichtet, Informationen zu ihren Kunden einzuholen, diese im KYC (Know Your Customer) Profil zu erfassen und die gemachten Angaben zu Ã¼berprÃ¼fen. 
+
+Eigenentwicklungen oder manuelle LÃ¶sungen sind oftmals nicht ausreichend und sicher genug, um GeldwÃ¤sche zu verhindern "Der OECD-Bericht kritisiert, dass die Transaktionen von Low-Risk-Kunden nicht hinreichend Ã¼berwacht werden. Oft verzichten Banken auf diese genaue ÃœberprÃ¼fung, um Ressourcen zu sparen.
+
+Quelle : http://www.geldinstitute.de/data/news/News-Anti-Geldwaesche-Loesung-bei-vielen-Banken-nicht-ausreichend_4737019.html   den,23.2013
+
+Eigener Text:
+-
+-
+-
 
 
 7-10 Folien
