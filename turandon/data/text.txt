@@ -1,0 +1,67 @@
+﻿Als „Geldwäsche“ bzw. „Geldwäscherei (in Österreich & Schweiz)“ werden sämtliche Handlungen bezeichnet, die das Ziel besitzen, die Herkunft illegal erlangten Vermögens zu verschleiern, um diese später unter anscheinender Legalität im Wirtschaftsverkehr benutzen zu können.
+
+Das wesensbildende Merkmal des Begriffs „Geldwäsche“ besteht folglich darin, dass der Ursprung der Vermögensgegenstände direkt oder indirekt auf eine kriminelle d.h. illegale und strafbare Handlung zurückzuführen ist.
+Der Geldwäsche liegt das Ziel zugrunde, die unrechtmäßige Herkunft der Vermögensgegenstände zu verschleiern, um ihnen nach Durchlaufen verschiedener Transaktionen den Anschein der Rechtmäßigkeit zu geben.
+Neben der bewussten Vertuschung der illegalen Herkunft geht es bei der Geldwäsche außerdem darum, die Beschlagnahme der unrechtmäßig erlangten Vermögensgegenstände durch die staatlichen Strafverfolgungsbehörden zu verhindern.
+
+
+Allgemeines
+Grundsätzlich werden drei Stufen der Geldwäsche unterschieden, die einzeln oder zusammen auftreten und sich ggf. auch überschneiden können:
+Platzierung (Placement)
+Verteilung (Layering)
+Integration (Integration)
+
+Platzierung (Placement)
+Unter der Platzierung (Placement) versteht man die Verschleierung der Herkunftsspuren des illegal erworbenen Geldes. Ferner soll die Identifikation sowie die Einziehung aus der kriminellen Tätigkeit durch den Staat verhindert werden. Die häufigsten Formen der Platzierung sind:
+die zu verschleiernde Geldmenge wird in kleineren Teilbeträgen in der Regel ohne zeitlichen Zusammenhang auf Banken, Geldwechselstuben, Spielkasinos, Münzhändler oder Wertpapiermakler verteilt.
+"Investition" des zu verschleiernden Geldbetrags in andere Vermögenswerte. Hierzu werden häufig Grundstücke, Luxusautos, Yachten, Schmuck etc. verwendet.
+Darlehensgewährungen an von den Beteiligten der Vortat nahe stehende Personen, Personenvereinigungen oder Institutionen.
+Beteiligungen an (stillen) Gesellschaften, die von den Beteiligten der Vortat beherrscht bzw. eingerichtet wurden.
+Versteuerung als legal erwirtschaftete Umsätze in Betrieben, die den weiten Teil ihrer Umsätze mit Bargeld tätigen. Anfällig hierfür sind insbesondere der Gastronomiebereich, Taxibetriebe und auch In- und Exportfirmen.
+
+Verteilung (Layering)
+In der Stufe der Verteilung (Layering) werden die illegal erworbenen Geldbeträge in andere Staaten transferiert. Hierbei kommen folgende Begebenheiten im Ausland den Beteiligten an der Vortat zu Gute:
+fehlende Buchführungspflicht,
+fehlende Bankaufsicht,
+mangelhafte Steuerkontrolle,
+mangelhafte Strafvorschriften sowie
+Vorhandensein von Domizil- und Finanzgesellschaften, welche kaum oder keinen Kontrollmechanismen unterliegen.
+Beim Transfer des Geldes werden in der Regel unverdächtige Dritte (Anwälte, Treuhänder oder Scheinfirmen) zwischengeschaltet, die durch die länderspezifischen Finanzgeschäfte und eine Vielzahl von Transaktionen für Verwirrung sorgen und eine erschwerte Verfolgbarkeit der illegalen Erlöse nach sich ziehen. Dabei werden Berufsgeheimnis und Verschwiegenheitspflichten geschickt für die eigenen Zwecke eingesetzt.
+
+Integration (Integration)
+Durch die Maßnahmen der Beteiligten der Vortat im Rahmen der Integration (Integration) fließt das in der Herkunft verschleierte Geld in den legalen Wirtschaftskreislauf zurück und erhält einen legalen Anschein, als sei es auf rechtmäßigem und nachvollziehbarem Wege durch die Ausübung einer geschäftlichen Tätigkeit erworben worden. Auch hier bedienen sich die Täter der für die Geldwäsche besonders geeigneten Bargeldbetriebe, wie z.B. Taxibetriebe, Gastronomiebetriebe sowie Im- und Exportfirmen.
+	Bei der Rückführung des Kapitals in den legalen Wirtschaftskreislauf wird in der Regel auch eine 	Versteuerung hingenommen. Da der Geldwäscher im Allgemeinen eine gewinnbringende 	Anlage anstrebt, wird auch eine Steuerhinterziehung in Kauf genommen oder als Nebenziel 	angesehen.
+Banken und Kreditinstitute spielen für alle drei Stufen der Geldwäsche eine bedeutende Rolle. Garantierte Diskretion, Bank- und Berufsgeheimnis bieten unentbehrliche Vorteile für den Geldwäscher. Für eine Platzierung der Bargeldbeträge reicht schon eine Zwischenlagerung in Depots oder Bankschließfächern aus. Bankeigene Finanzdienstleistungen werden zur Verteilung benutzt und Darlehenstransaktionen, Akkreditive sowie die finanzielle Durchführung von Investitionsprojekten und die einfache Ausstellung von Schecks bietet den Geldwäschern Hilfestellung bei der Integration. Das Ganze erfolgt unter Ausnutzung der Stärken und Schwächen der Organisationsstrukturen und Überwachungsschwächen einzelner, für Geldwäsche besonders anfällige Länder.
+Wichtigstes Hilfsmittel zur Bekämpfung der Geldwäsche sind die in vielen Ländern geltenden Schwellenwerte für Bargeldtransaktionen. Dies soll die Verteilung großer Mengen an Bargeld erschweren.
+
+
+
+
+
+
+
+
+
+
+ Maßnahmen gegen Geldwäsche
+Beispiel Sparkassen:
+Grundlagen:
+§ 261 Strafgesetzbuch (StGB), Straftatbestand der „Geldwäsche, Verschleierung untechtmäßig erlangter Vermögenswerte“
+das Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten (Geldwäschegesetz – GwG)
+
+
+1. Kundenbezogene Sorgflatspflicht („Know-Your-Customer-Prinzip“)
+Feststellung der Identität des Kunden:
+Bei natürlichen Personen müssen insbesondere die Art der Berufstätigkeit und der Zweck der Geschäftsbeziehung erfasst werden.
+Bei juristischen Personen müssen unter anderem Art der Gesellschaft, Tätigkeit, Branche, Branchencode, Anzahl der Mitarbeiter, Besitzverhältnisse und Firmenstruktur sowie die wichtigsten (erwarteten) Finanzkennziffern erfasst werden.
+Bei politisch exponierten Personen (PEP) muss auch die Funktion samt Ausübungsort dieser festgehalten werden.
+Weiterhin muss generell die Herkunft von Geldern und Vermögen geklärt werden. Auch die Details der geplanten Kundenbeziehung wie Umfang und z.B. Zahlungsverkehrsarten müssen notiert werden.
+Bei Begründung einer auf Dauer angelegten Geschäftsbeziehung 
+Bei Abwicklung einer Einzeltransaktion 
+Bei Bargeld und/oder Werte Annahme außerhalb einer bestehenden Geschäftsbeziehung 
+bei Transaktionen im Wert von 15.000 EUR oder mehr, auch wenn mehrere kleinere Transaktionen durchgeführt werden die zusammen diesen Betrag ausmachen (Stückelung) 
+Bei Geldtransfer Geschäften die außerhalb einer bestehenden Geschäftsbeziehung einen Betrag im Wert von 1.000,- Euro ausmachen 
+
+
+
+
