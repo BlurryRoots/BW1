@@ -1,0 +1,119 @@
+Syntaxhinweis:
+Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht auf den Folien auftauchen.
+
+-Einf�hrung (7 min)
+
+	-Definition
+	-Zweck
+	-Al Capone Gag
+	-3 Stufen der Geldw�sche
+	-Beispiel
+
+
+-Bek�mpfung (13 min)
+
+	Packet
+		Vorraussetung / Sorgfalt / Einschr�nkungen - �berpr�fender
+
+	-Akteure
+	
+		-Sorgfaltspflichtige
+			
+			{blurryroots}
+			1.
+			Gleichwertiger Drittstaat
+			
+			BRD - Finanzagentur GmbH
+			
+			Kapitalanlegegesellschaften
+			
+			Anw�lte, Notare und Kammerrechtsbeist�nde
+			
+			{Abdulhamid}
+			2.
+			Kreditinstitute
+			
+			Finanzdienstleistungsinstitute
+			
+			Unternehmen, Agenten und Personen im Umgang mit E-Geld
+			
+			Versicherungen
+			
+			Treuhandunternehmen
+			
+			Immobilienmakler
+			
+			{blurryroots}
+			3.
+			Spielbanken
+			
+			Veranstalter/Vermittler Gl�ckspiele im Internet
+			
+			x.
+			{blurryroots}
+			Wirtschaftlich Berechtigter
+
+			{Abdulhamid}
+			Personen (handeln mit G�tern)
+		
+		-�berpr�fende
+		
+			Das Bundeskriminalamt � Zentralstelle f�r Verdachtsmeldungen
+			
+			Bundesministerium der Finanzen
+			
+			Bundesministerium des Innern
+			
+			Finanzagentur GmbH das Bundesministerium der Finanzen
+			
+			Bundesanstalt f�r Finanzdienstleistungsaufsicht
+			
+			Jeweils zust�ndige Aufsichtsbeh�rde f�r das Versicherungswesen
+			
+			�rtliche Rechtsanwaltskammer (�� 60, 61 der Bundesrechtsanwaltsordnung)
+			
+			Patentsanwaltskammer (� 53 der Patentanwaltsordnung)
+			
+			Pr�sident des Landgerichts, in dessen Bezirk der Notar seinen Sitz hat (� 92 Nr. 1 der Bundesnotarordnung)
+
+				F�r: Notare der jeweilige 
+
+			Wirtschaftspr�ferkammer (� 57 Abs. 2 Nr. 17 der Wirtschaftspr�ferordnung)
+                
+				F�r: Wirtschaftspr�fer und vereidigte Buchpr�fer
+
+			�rtlich zust�ndige Steuerberaterkammer (� 76 des Steuerberatungsgesetzes)
+
+				F�r: Steuerberater und Steuerbevollm�chtigte
+
+			Im �brigen, nach Bundes- oder Landesrecht zust�ndige Stelle ???
+			
+			Europ�ischen Bankenaufsichtsbeh�rde 
+
+			Europ�ischen Aufsichtsbeh�rde f�r das Versicherungswesen und die betriebliche Altersversorgung 
+
+			Europ�ischen Wertpapier- und Marktaufsichtsbeh�rde 
+
+	-Richtlinien/Vorgehensweisen
+		-Sorgfaltspflichtige
+		-�berpr�fende
+
+{Abdel}
+-Probleme u. Vorschl�ge (Zusatz)
+
+
+-Hier kommt es gezielt darauf an, die Kunden ganzheitlich zu prüfen – und alle Risiken zu beobachten. Die Hauptkritikpunkte gegenüber den Banken liegen in der mangelnden Überwachung der Low-Risk-Kunden in Bezug auf Customer Due Diligence und Transaktionsüberwachungen
+
+Zahlreiche Banken haben schon eine Software-Lösung implementiert, die sämtliche Transaktionen prüft, die Risiken gewichtet und ungewöhnliche Transaktionen aufdeckt. Dies allein ist jedoch nach Meinung von Innovations nicht ausreichend. Gemäß den Customer Due Diligence Vorschriften sind sie dazu verpflichtet, Informationen zu ihren Kunden einzuholen, diese im KYC (Know Your Customer) Profil zu erfassen und die gemachten Angaben zu überprüfen. 
+
+Eigenentwicklungen oder manuelle Lösungen sind oftmals nicht ausreichend und sicher genug, um Geldwäsche zu verhindern "Der OECD-Bericht kritisiert, dass die Transaktionen von Low-Risk-Kunden nicht hinreichend überwacht werden. Oft verzichten Banken auf diese genaue Überprüfung, um Ressourcen zu sparen.
+
+Quelle : http://www.geldinstitute.de/data/news/News-Anti-Geldwaesche-Loesung-bei-vielen-Banken-nicht-ausreichend_4737019.html   den,23.2013
+
+Eigener Text:
+-
+-
+-
+
+
+7-10 Folien

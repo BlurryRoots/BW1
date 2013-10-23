@@ -1,11 +1,19 @@
 {
-	"task":
+	"tasks":
 	{
 		"turadon":
-			"Beispiel",
+			"Einführung",
+
 		"aizawa":
-			"Richtlinien",
+			"Bekämpfung Teil1",
+
 		"blurryroots":
-			"Organe"
+			"Bekämpfung Teil2",
+
+		"zetaron":
+			"reveal.js support",
+
+		"abdel":
+			"probleme und verbesserungen"
 	}
 }

@@ -1,2 +1,6 @@
 .~lock.*
 Thumbs.db
+*.log
+*.aux
+*.pdf
+*.toc
