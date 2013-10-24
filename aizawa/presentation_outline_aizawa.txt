@@ -1,18 +1,37 @@
 FATF - Financial Action Task Force
-Die FATF (Financial Action Tast Force on Money Laundering) versteht sich selbst als international führendes Gremium zur Bekämpfung der Geldwäsche und hat ihren Sitz bei der OECD in Paris. Hauptziel der FATF ist die Entwicklung und Förderung von Grundsätzen zur Bekämpfung der Geldwäsche und der Terrorismusfinanzierung.Hierzu hat die FATF 40 Empfehlungen als Mindeststandards sowie 9 Sonderempfehlungen zur Bekämpfung der Terrorismusfinanzierung verabschiedet. Die FATF besteht gegenwärtig aus 34 Mitgliedsländern und zwei internationalen Organisationen.
+-Financial Action Tast Force on Money Laundering
+-versteht sich selbst als international führendes Gremium zur Bekämpfung der Geldwäsche
+-Sitz bei der OECD in Paris
+-Hauptziel ist die Entwicklung und Förderung von Grundsätzen zur Bekämpfung der Geldwäsche
+-40 Empfehlungen als Mindeststandards sowie 9 Sonderempfehlungen
+-34 Mitgliedsländer und zwei internationale Organisationen.
 
 
 
 
 BaFin - Bundesanstalt für Finanzdienstleistungsaufsicht
-Die BaFin verfolgt das Ziel, einen Missbrauch des Finanzsystems zu Zwecken von Geldwäsche und Terrorfinanzierung zu verhindern. Sie sorgt dafür, dass die zu diesem Zweck bestehenden gesetzlichen Pflichten von den von ihr beaufsichtigten Unternehmen und Personen umgesetzt werden. Diese Pflichten ergeben sich aus dem Geldwäschegesetz(GwG), dem Kreditwesengesetz(KWG), dem Versicherungsaufsichtsgesetzt(VAG), dem Zahlungsdiensteaufsichtsgesetz(ZAG) oder dem Kapitalanlagegesetzbuch(KAGB).
-Schließlich ist in der Abteilung "Geldwäscheprävention" auch die elektronische Kontenabrufeinrichtung nach § 24c KWG angesiedelt. Hiermit können unter bestimmten Voraussetzungen Konten verdächtiger Terroristen oder anderer Straftäter bei in Deutschland ansässigen Kreditinstituten aufgespürt und an die jeweiligen Anfragenden (insbesondere Strafverfolgungsbehörden) übermittelt werden. Die Abteilung GW vertritt außerdem die finanzaufsichtlichen Interessen in diversen internationalen und europäischen Gremien, insbesondere in der Financial Action Task Force on Money Laundering (FATF) oder dem Sub-Committee on Anti Money Laundering (AMLC), einem Unterausschuss des Gemeinsamen Ausschuss der Europäischen Aufsichtsbehörden. 
+-Missbrauch des Finanzsystems zu Zwecken von Geldwäsche und Terrorfinanzierung zu verhindern
+-sorgt dafür, dass die bestehenden gesetzlichen Pflichten von den von ihr beaufsichtigten Unternehmen und Personen umgesetzt werden
+{(sollte lieber nicht auf die Folien)
+-Diese Pflichten ergeben sich aus:
+	-dem Geldwäschegesetz(GwG)
+	-dem Kreditwesengesetz(KWG)
+	-dem Versicherungsaufsichtsgesetzt(VAG)
+	-dem Zahlungsdiensteaufsichtsgesetz(ZAG)
+	-dem Kapitalanlagegesetzbuch(KAGB).}
+-Abteilung "Geldwäscheprävention" verantwortlich für die elektronische Kontenabrufeinrichtung
+-Aufspüren von Straftätern bei in Deutschland ansässigen Kreditinstituten
+-Übermittlung an die jeweiligen Anfragenden (insbesondere Strafverfolgungsbehörden)
+-vertritt außerdem die finanzaufsichtlichen Interessen in diversen internationalen und europäischen Gremien (z.b. FATF) 
 
 
 
 
 EU-Richtlinien
-Die EU-Richtlinien sind Mittel im Kampf gegen die Geldwäsche auf europäischer Ebene. Erstmals wurden sie durch die EU-Richtlinie Nr. 91/308 vom 10.Juni 1991 festgelegt worden. Diese wurde durch weitere Richtlinien, zuletzt die 3.Geldwäscherichtlinie vom 26. oktober 2005 ergänzt. Diese Richtlinien basieren auf den Empfehlungen der FATF, teilweise gehen sie aber über diese hinaus.
+-Mittel im Kampf gegen die Geldwäsche auf europäischer Ebene
+-Erstmals 1991 durch die EU-Richtlinie Nr. 91/308
+-zuletzt durch die 3.Geldwäscherichtlinie vom 26. oktober 2005 ergänzt
+-basieren auf den Empfehlungen der FATF, teilweise gehen sie aber über diese hinaus
 
 
 
@@ -20,52 +39,45 @@ Die EU-Richtlinien sind Mittel im Kampf gegen die Geldwäsche auf europäischer 
 Richtlinien
 
 - orientieren sich nach den EU-Richtlinien
-- Prüfen des Herkunftslandes
 - Prüfen der Identität
+- verschärfte Richtlinien für Kredit- und Finanzdienstleistungsinstitute
+	{wichtigste und am weitesten verbreitetsen Vorgehensweisen}
+	- politisch exponierte Person?
+	- konzernweite Gefährdungsanalyse der Kunden
+	- Einteilung in Risikoklassen
+	- Herkunft der Geldmittel
+	- Bestellung eines Geldwäschebeauftragten
+	- Software zur Überprüfung auf verdächtige Aktivitäten
+
+{Aber auch:
 - Kundendaten mit Datenbanken privater Anbieter abgleichen
 - Banken müssen sämtliche Maßnahmen zur Geldwäsche auch für Tochtergesellschaften gewährleisten
 - Ungewöhnliche Transaktionen?
-- Software zur Überprüfung auf verdächtige Aktivitäten
-
-
-verschärfte Richtlinien für Kredit- und Finanzdienstleistungsinstitute:
-		
-- politisch exponierte Person?
-- konzernweite Gefährdungsanalyse der Kunden
-- Einteilung in Risikoklassen
+- Überprüfung der Geschäftsbeziehungen des potenziellen Bankkunden
 - Überprüfung der Art der Geschäftstätigkeit
 - Beweggründe der Kontoeröffnung
-- Ort der Geschäftstätigkeit des Kunden
-- Herkunft der Geldmittel
-- Überprüfung der Geschäftsbeziehungen des potenziellen Bankkunden
-- Bestellung eines Geldwäschebeauftragten
+- Ort der Geschäftstätigkeit des Kunden}
 
 
-Immobilienmarkler müssen erst bei bestimmten Vorraussetzungen ihre Kunden auf Geldwäsche überprüfen:
-- Mieter soll Mietkaution auf ein ausländisches Konto überweisen
-- bei Annahme von Bargeld in Höhe von mehr als 15.000€
-- bestehen konkrete Anhaltspunkte die Transaktion für Geldwäsche zu missbrauchen
-- Zweifel an der Identität des Vertragspartners
-- alle erhobenen Angaben dokumentieren und mind. 5 Jahre aufbewahren
-- Bestellung eines Geldwäschebeauftragten nicht notwendig
+- Richtlinien für Immobilienmarkler:
+	- bei Annahme von Bargeld in Höhe von mehr als 15.000€
+	- Mieter soll Mietkaution auf ein ausländisches Konto überweisen
+	- bestehen konkrete Anhaltspunkte die Transaktion für Geldwäsche zu missbrauchen
+	- Zweifel an der Identität des Vertragspartners
+	- Bestellung eines Geldwäschebeauftragten nicht notwendig
+	{- alle erhobenen Angaben dokumentieren und mind. 5 Jahre aufbewahren}
  
-Grundsätzlich steht es im Ermessen des Verpflichteten zu entscheiden, wann ein Risiko besteht. Dieser sog. risikoorientierte Ansatz lässt den betroffenen viel Raum.
-
-
-Für private Personen gelten lockere Regelungen, diese treffen in der Regel nur bei höheren Summen Bargeld auf das Geldwäschegesetz. 
-Personen die gezielt Waren einkaufen oder herstellen, um diese weiter zu verkaufen, müssen unter Umständen ein Gewerbe anmelden, somit müssen sie auch die Geldwäschegesetzte beachten.
-
 
 
 
 Überprüfende
 
-- BaFin
+- BaFin (wichtigstes Organ der Geldwäschebekämpfung in Deutschland*)
 - Jeweils zuständige Aufsichtsbehörde für das Versicherungswesen
 - örtliche Rechtsanwaltskammer
 
 
-höhere Instanzen:
+{höhere Instanzen:
 - Bundeskriminalamt Zentralstelle für Verdachtsmeldungen
 - Bundesministerium der Finanzen
 - Bundesministerium des Innern
@@ -73,5 +85,6 @@ höhere Instanzen:
 - Europäische Bankaufsichtsbehörde
 - Europäische Aufsichtsbehörde für das Versicherungswesen
 - betriebliche Altersversorgung
-- Europäische Wertpapier- und Marktaufsichtsbehörde
+- Europäische Wertpapier- und Marktaufsichtsbehörde}
 
+*Hier wäre ne Andere Formulierung besser
