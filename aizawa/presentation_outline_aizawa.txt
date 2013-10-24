@@ -1,57 +1,76 @@
 FATF - Financial Action Task Force
 
 
-BaFin - Bundesanstalt für Finanzdienstleistungsaufsicht
+
+
+
+BaFin - Bundesanstalt fÃ¼r Finanzdienstleistungsaufsicht
+
+
+
 
 
 EU-Richtlinien
 
 
+
+
+
 Richtlinien
-		- orientieren sich nach den EU-Richtlinien
-		- Prüfen des Herkunftslandes
-		- Prüfen der Identität
-		- Kundendaten mit Datenbanken privater Anbieter abgleichen
-		- Banken müssen sämtliche Maßnahmen zur Geldwäsche auch für 			Tochtergesellschaften gewährleisten
-		- Ungewöhnliche Transaktionen?
-		- Software zur Überprüfung auf verdächtige Aktivitäten
 
-	verschärfte Richtlinien für Kredit- und Finanzdienstleistungsinstitute:
-		- politisch exponierte Person?
-		- konzernweite Gefährdungsanalyse der Kunden
-		- Einteilung in Risikoklassen
-		- Überprüfung der Art der Geschäftstätigkeit
-		- Beweggründe der Kontoeröffnung
-		- Ort der Geschäftstätigkeit des Kunden
-		- Herkunft der Geldmittel
-		- Überprüfung der Geschäftsbeziehungen des potenziellen 			Bankkunden
-		- Bestellung eines Geldwäschebeauftragten
-
-	Immobilienmarkler müssen erst bei bestimmten Vorraussetzungen ihre 		Kunden auf Geldwäsche überprüfen:
-		- Mieter soll Mietkaution auf ein ausländisches Konto 				überweisen
-		- bei Annahme von Bargeld in Höhe von mehr als 15.000€
-		- bestehen konkrete Anhaltspunkte die Transaktion für 				Geldwäsche zu missbrauchen
-		- Zweifel an der Identität des Vertragspartners		
-		- alle erhobenen Angaben dokumentieren und mind. 5 Jahre 			aufbewahren
-		- Bestellung eines Geldwäschebeauftragten nicht notwendig
-		Grundsätzlich steht es im Ermessen des Verpflichteten zu 			entscheiden, wann ein Risiko besteht. Dieser sog. 				risikoorientierte Ansatz lässt den betroffenen viel Raum.
-
-	Für private Personen gelten lockere Regelungen, diese treffen in der 		Regel nur bei höheren Summen Bargeld auf das Geldwäschegesetz. Personen 	die gezielt Waren einkaufen oder herstellen, um diese weiter zu 		verkaufen, müssen unter Umständen ein Gewerbe anmelden, somit müssen 		sie auch die Geldwäschegesetzte beachten.
+- orientieren sich nach den EU-Richtlinien
+- PrÃ¼fen des Herkunftslandes
+- PrÃ¼fen der IdentitÃ¤t
+- Kundendaten mit Datenbanken privater Anbieter abgleichen
+- Banken mÃ¼ssen sÃ¤mtliche MaÃŸnahmen zur GeldwÃ¤sche auch fÃ¼r Tochtergesellschaften gewÃ¤hrleisten
+- UngewÃ¶hnliche Transaktionen?
+- Software zur ÃœberprÃ¼fung auf verdÃ¤chtige AktivitÃ¤ten
 
 
+verschÃ¤rfte Richtlinien fÃ¼r Kredit- und Finanzdienstleistungsinstitute:
+		
+- politisch exponierte Person?
+- konzernweite GefÃ¤hrdungsanalyse der Kunden
+- Einteilung in Risikoklassen
+- ÃœberprÃ¼fung der Art der GeschÃ¤ftstÃ¤tigkeit
+- BeweggrÃ¼nde der KontoerÃ¶ffnung
+- Ort der GeschÃ¤ftstÃ¤tigkeit des Kunden
+- Herkunft der Geldmittel
+- ÃœberprÃ¼fung der GeschÃ¤ftsbeziehungen des potenziellen Bankkunden
+- Bestellung eines GeldwÃ¤schebeauftragten
 
-Überprüfende
-		- BaFin		
-		- Jeweils zuständige Aufsichtsbehörde für das 					Versicherungswesen
-		- örtliche Rechtsanwaltskammer
-		 
-	höhere Instanzen:
-		- Bundeskriminalamt Zentralstelle für Verdachtsmeldungen
-		- Bundesministerium der Finanzen
-		- Bundesministerium des Innern
-		- Finanzagentur GmbH das Bundesministerium der Finanzen
-		- Europäische Bankaufsichtsbehörde
-		- Europäische Aufsichtsbehörde für das Versicherungswesen
-		- betriebliche Altersversorgung
-		- Europäische Wertpapier- und Marktaufsichtsbehörde
+
+Immobilienmarkler mÃ¼ssen erst bei bestimmten Vorraussetzungen ihre Kunden auf GeldwÃ¤sche Ã¼berprÃ¼fen:
+- Mieter soll Mietkaution auf ein auslÃ¤ndisches Konto Ã¼berweisen
+- bei Annahme von Bargeld in HÃ¶he von mehr als 15.000â‚¬
+- bestehen konkrete Anhaltspunkte die Transaktion fÃ¼r GeldwÃ¤sche zu missbrauchen
+- Zweifel an der IdentitÃ¤t des Vertragspartners
+- alle erhobenen Angaben dokumentieren und mind. 5 Jahre aufbewahren
+- Bestellung eines GeldwÃ¤schebeauftragten nicht notwendig
+ 
+GrundsÃ¤tzlich steht es im Ermessen des Verpflichteten zu entscheiden, wann ein Risiko besteht. Dieser sog. risikoorientierte Ansatz lÃ¤sst den betroffenen viel Raum.
+
+
+FÃ¼r private Personen gelten lockere Regelungen, diese treffen in der Regel nur bei hÃ¶heren Summen Bargeld auf das GeldwÃ¤schegesetz. 
+Personen die gezielt Waren einkaufen oder herstellen, um diese weiter zu verkaufen, mÃ¼ssen unter UmstÃ¤nden ein Gewerbe anmelden, somit mÃ¼ssen sie auch die GeldwÃ¤schegesetzte beachten.
+
+
+
+
+ÃœberprÃ¼fende
+
+- BaFin
+- Jeweils zustÃ¤ndige AufsichtsbehÃ¶rde fÃ¼r das Versicherungswesen
+- Ã¶rtliche Rechtsanwaltskammer
+
+
+hÃ¶here Instanzen:
+- Bundeskriminalamt Zentralstelle fÃ¼r Verdachtsmeldungen
+- Bundesministerium der Finanzen
+- Bundesministerium des Innern
+- Finanzagentur GmbH das Bundesministerium der Finanzen
+- EuropÃ¤ische BankaufsichtsbehÃ¶rde
+- EuropÃ¤ische AufsichtsbehÃ¶rde fÃ¼r das Versicherungswesen
+- betriebliche Altersversorgung
+- EuropÃ¤ische Wertpapier- und MarktaufsichtsbehÃ¶rde
 
