@@ -1,0 +1,57 @@
+FATF - Financial Action Task Force
+
+
+BaFin - Bundesanstalt für Finanzdienstleistungsaufsicht
+
+
+EU-Richtlinien
+
+
+Richtlinien
+		- orientieren sich nach den EU-Richtlinien
+		- Prüfen des Herkunftslandes
+		- Prüfen der Identität
+		- Kundendaten mit Datenbanken privater Anbieter abgleichen
+		- Banken müssen sämtliche Maßnahmen zur Geldwäsche auch für 			Tochtergesellschaften gewährleisten
+		- Ungewöhnliche Transaktionen?
+		- Software zur Überprüfung auf verdächtige Aktivitäten
+
+	verschärfte Richtlinien für Kredit- und Finanzdienstleistungsinstitute:
+		- politisch exponierte Person?
+		- konzernweite Gefährdungsanalyse der Kunden
+		- Einteilung in Risikoklassen
+		- Überprüfung der Art der Geschäftstätigkeit
+		- Beweggründe der Kontoeröffnung
+		- Ort der Geschäftstätigkeit des Kunden
+		- Herkunft der Geldmittel
+		- Überprüfung der Geschäftsbeziehungen des potenziellen 			Bankkunden
+		- Bestellung eines Geldwäschebeauftragten
+
+	Immobilienmarkler müssen erst bei bestimmten Vorraussetzungen ihre 		Kunden auf Geldwäsche überprüfen:
+		- Mieter soll Mietkaution auf ein ausländisches Konto 				überweisen
+		- bei Annahme von Bargeld in Höhe von mehr als 15.000€
+		- bestehen konkrete Anhaltspunkte die Transaktion für 				Geldwäsche zu missbrauchen
+		- Zweifel an der Identität des Vertragspartners		
+		- alle erhobenen Angaben dokumentieren und mind. 5 Jahre 			aufbewahren
+		- Bestellung eines Geldwäschebeauftragten nicht notwendig
+		Grundsätzlich steht es im Ermessen des Verpflichteten zu 			entscheiden, wann ein Risiko besteht. Dieser sog. 				risikoorientierte Ansatz lässt den betroffenen viel Raum.
+
+	Für private Personen gelten lockere Regelungen, diese treffen in der 		Regel nur bei höheren Summen Bargeld auf das Geldwäschegesetz. Personen 	die gezielt Waren einkaufen oder herstellen, um diese weiter zu 		verkaufen, müssen unter Umständen ein Gewerbe anmelden, somit müssen 		sie auch die Geldwäschegesetzte beachten.
+
+
+
+Überprüfende
+		- BaFin		
+		- Jeweils zuständige Aufsichtsbehörde für das 					Versicherungswesen
+		- örtliche Rechtsanwaltskammer
+		 
+	höhere Instanzen:
+		- Bundeskriminalamt Zentralstelle für Verdachtsmeldungen
+		- Bundesministerium der Finanzen
+		- Bundesministerium des Innern
+		- Finanzagentur GmbH das Bundesministerium der Finanzen
+		- Europäische Bankaufsichtsbehörde
+		- Europäische Aufsichtsbehörde für das Versicherungswesen
+		- betriebliche Altersversorgung
+		- Europäische Wertpapier- und Marktaufsichtsbehörde
+
