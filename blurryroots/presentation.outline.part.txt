@@ -1,4 +1,4 @@
-Zur Vorbeugung von Geldwäsche, schreibt das Gesetzt bestimmte sogenannten 'Sorgfalten' vor, welche von allen im Gesetzt erwähnten Verantwortlichen durch zu führen sind.
+Zur Vorbeugung von Geldwäsche, schreibt das Gesetzt bestimmte sogenannten 'Sorgfalten' vor, welche von allen im Gesetzt erwähnten Verantwortlichen nach zu kommen sind.
 
 Falls es zwischen Verantwortlichen zu einer Geschäftsbeziehung kommen sollte, oder eine Transaktion (kann auch aus mehreren welche Anhaltspunkte für Verbindung besitzten) über 15000€ kommt.
 Falls Verdacht das Geld von Straftat oder Terrorismusfinanzierung stammt.
@@ -12,13 +12,11 @@ Falls Zweifel an Identität oder wirtschaftlicher Berechtigung des Partners best
 - Kontinuierliche Überwachung Transaktionen
     + Herkunft Vermögenswerte
     + Gültigkeit wirtschaftlicher Berechtigung
+- Aufbewahrung der Unterlagen (mind. 5 Jahre)
 
 Ausnahmen:
     Für einzelne Personen:
         Muss nicht identifizieren und Zweck und Art bestimmen.
-
-
-Gleichwertiger Drittstaat
             
 BRD - Finanzagentur GmbH
 
@@ -45,7 +43,3 @@ Anwälte, Notare und Kammerrechtsbeistände
 
 Spielbanken
     Müssen ab ver/kauf von >= 2000€ Spielmarken auf jeden Fall Identität festellen.
-
-Veranstalter/Vermittler Glückspiele im Internet
-
-Wirtschaftlich Berechtigter
