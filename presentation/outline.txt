@@ -2,12 +2,18 @@ Syntaxhinweis:
 Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht auf den Folien auftauchen.
 
 -Einf�hrung (7 min)
-
-	-Definition
-	-Zweck
-	-Al Capone Gag
+	- Zweck
+		Illegal erlangtes Vermögen wird in den legalen Wirtschaftskreislauf eingeschleußt
+	{-Al Capone Gag}
 	-3 Stufen der Geldw�sche
-	-Beispiel
+		- Placement
+			- Die "Platzierung" dient der Verschleierung der Herkunftsspuren des Geldes
+		- Layering
+			- Bei der "Verteilung" wird das Geld ins Ausland transferiert
+		- Integration
+			- Schlussendlich Rückführung der Mittel in die Legalwirtschaft
+	[-Beispiel}
+		- Wenn Zeit
 
 
 -Bek�mpfung (13 min)
