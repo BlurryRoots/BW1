@@ -5,7 +5,7 @@ Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht a
 	- Zweck
 		Illegal erlangtes Vermögen wird in den legalen Wirtschaftskreislauf eingeschleußt
 	{-Al Capone Gag}
-	-3 Stufen der Geldw�sche
+	-3 Stufen der Geldwäsche
 		- Placement
 			- Die "Platzierung" dient der Verschleierung der Herkunftsspuren des Geldes
 		- Layering
@@ -13,7 +13,13 @@ Alle Notizen in {} sollen als Vortragshinweise dienen und demensprechend nicht a
 		- Integration
 			- Schlussendlich Rückführung der Mittel in die Legalwirtschaft
 	[-Beispiel}
-		- Wenn Zeit
+		2012 ist der Goldverkauf in Italien aufgrund der schlechten Wirtschaftslage stark gestiegen. Viele neu Goldhändler (einige kontrolliert von der Mafia) und "Hinterhofgießerein" und gründeten sich.
+		Wenn nun eine Familie ihr Gold im Wert von 1000 Euro zum Händler bringt kann dieser ihr (gegen prozentualen Anteil) eine Quittung über 2000 Euro ausstellen. So entsteht für ihn (den Händler) ein Spielraum von knapp 1000 Euro um illigal erwirtschaftete Gelder mit in die Bücher des Geschäfts zu bringen.
+Quelle: http://www.focus.de/finanzen/boerse/gold/gold-gegen-bares-die-italiener-versilbern-ihren-familienschmuck_aid_805047.html [25.10.13]
+
+
+		[Gold-/Silberschmied]
+			Kauft von Person(A) Gold/Silber im Wert von 1000€
 
 
 -Bek�mpfung (13 min)
