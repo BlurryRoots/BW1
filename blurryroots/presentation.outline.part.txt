@@ -1,51 +1,67 @@
-Zur Vorbeugung von Geldwäsche, schreibt das Gesetzt bestimmte sogenannten 'Sorgfalten' vor, welche von allen im Gesetzt erwähnten Verantwortlichen durch zu führen sind.
+{Die wichtigste Grundlage in der Bekämpfung der Geldwäsche, ist die Transparenz von allen Beteiligten einer Geschäftsbeziehung oder eines Geldtransfers, sowie die Festellung der Herkunft der Finanzmittel.}
+Idee der Geldwäschebekämpfung:
+    
+    - Durchsichtigkeit von Transaktionsbeteiligten und des bewegten Finanzmittel.
 
-Falls es zwischen Verantwortlichen zu einer Geschäftsbeziehung kommen sollte, oder eine Transaktion (kann auch aus mehreren welche Anhaltspunkte für Verbindung besitzten) über 15000€ kommt.
-Falls Verdacht das Geld von Straftat oder Terrorismusfinanzierung stammt.
-Falls Zweifel an Identität oder wirtschaftlicher Berechtigung des Partners besteht.
+{Zur Vorbeugung von Geldwäsche, schreibt das Gesetzt bestimmte sogenannten 'Sorgfalten' vor, welche von allen im Gesetzt erwähnten Verantwortlichen nach zu kommen sind.}
+Gesetzlich verankerte Pflichten (sogennante Sorgfaltspflichten):
 
-=>
+    - Identifizierung
+    - Zweck und Art der Geschäftsbeziehung
+    - Prüfen über wirtschaftliche Berechtigung
+    - Kontinuierliche Überwachung Transaktionen
+        + Herkunft Vermögenswerte
+        + Gültigkeit wirtschaftlicher Berechtigung
+    - Aufbewahrung von Unterlagen (Dokumentation und Untersuchungen) von mind. 5 Jahre
 
-- Identifizierung
-- Zweck und Art der Geschäftsbeziehung
-- Prüfen über wirtschaftliche Berechtigung
-- Kontinuierliche Überwachung Transaktionen
-    + Herkunft Vermögenswerte
-    + Gültigkeit wirtschaftlicher Berechtigung
+Vorraussetzungen des unbedingten Nachkommens der Sorgfaltspflichten
+    
+    Transaktion von >= 15000€ 
+    {Kann auch aus mehreren Transaktionen bestehen, welche Anhaltspunkte für Verbindung besitzten.}
 
-Ausnahmen:
-    Für einzelne Personen:
-        Muss nicht identifizieren und Zweck und Art bestimmen.
+    Begründeter Verdacht 
+
+        Terrorismusfinanzierung
+
+        Finanzquelle von Straftat
+
+    Zweifel
+
+        Identität
+
+        Wirtschaftliche Berechtigung
+
+    Geldtransfer >= 1000€
+    {Definiert in europäischer Verordnung (EG) Nr. 1781/2006; Gilt auch wenn Sender und Empfänger gleich sind?!}
+
+    Speziell
+
+        Anwälte, Notare und Kammerrechtsbeistände
+
+            Handhabung und/oder Abwicklung von Finanzangelegenheit ausserhalb von Rechtsberatung/Prozessvertretung
+            {Sind zur Anzeige verpflichtet, falls Verdacht aufkommt bei folgenden Dienstleistungen:
+            a)  Kauf und Verkauf von Immobilien oder Gewerbebetrieben,
+            b)  Verwaltung von Geld, Wertpapieren oder sonstigen Vermögenswerten,
+            c)  Eröffnung oder Verwaltung von Bank-, Spar- oder Wertpapierkonten,
+            d)  Beschaffung der zur Gründung, zum Betrieb oder zur Verwaltung von Gesellschaften erforderlichen Mittel,
+            e)  Gründung, Betrieb oder Verwaltung von Treuhandgesellschaften, Gesellschaften oder ähnlichen Strukturen,
+            f) Durchführen von Finanz -oder Immobilientransaktionen für Mandanten.}
+
+        Spielbanken
+
+            Müssen ab ver/kauf von >= 2000€ Spielmarken auf jeden Fall Identität festellen.
+
+        Anbieter von Glücksspiel im Internet
+
+            Sorgsames betreiben von Datenverarbeitungssystemen
+            {}
+
+{Weiterhin gilt das Personen, welche Bargeld über Grenzen bewegen, alle Summen die 10000€ übersteigen, vorher an zu melden haben. Sonst handelt es sich um eine Ordnungswidrigkeit und kann zu einem Verdacht der Geldwäsche führen.}
+Zusatz
+
+    Überführung von Bargeldsummen >= 10000€ ohne Anmeldung beim Zoll 
+        
+        => Ordnungswiedrigkeit & Verdacht auf Geldwäsche
 
 
-Gleichwertiger Drittstaat
-            
-BRD - Finanzagentur GmbH
 
-Kapitalanlegegesellschaften
-
-Anwälte, Notare und Kammerrechtsbeistände
-    a)  Kauf und Verkauf von Immobilien oder Gewerbebetrieben,
-
-
-    b)  Verwaltung von Geld, Wertpapieren oder sonstigen Vermögenswerten,
-
-
-    c)  Eröffnung oder Verwaltung von Bank-, Spar- oder Wertpapierkonten,
-
-
-    d)  Beschaffung der zur Gründung, zum Betrieb oder zur Verwaltung von Gesellschaften erforderlichen Mittel,
-
-
-    e)  Gründung, Betrieb oder Verwaltung von Treuhandgesellschaften, Gesellschaften oder ähnlichen Strukturen,
-
-    f) Durchführen von Finanz -oder Immobilientransaktionen für Mandanten.
-
-    Müssen nicht identifizieren oder Zweck/Art bestimmen falls Rechtsberatung oder Prozessvertretung, ausser begründeter Verdacht auf Geldwäsche/Terrorismusfinanzierung.
-
-Spielbanken
-    Müssen ab ver/kauf von >= 2000€ Spielmarken auf jeden Fall Identität festellen.
-
-Veranstalter/Vermittler Glückspiele im Internet
-
-Wirtschaftlich Berechtigter
