@@ -16,7 +16,9 @@ Gesetzlich verankerte Pflichten (sogennante Sorgfaltspflichten):
 
 Vorraussetzungen des unbedingten Nachkommens der Sorgfaltspflichten
     
-    Transaktion von >= 15000€ 
+    Beginn einer Geschäftsbeziehung
+
+    Transaktion von >= 15000€ ausserhalb einer Geschäftsbeziehung
     {Kann auch aus mehreren Transaktionen bestehen, welche Anhaltspunkte für Verbindung besitzten.}
 
     Begründeter Verdacht 

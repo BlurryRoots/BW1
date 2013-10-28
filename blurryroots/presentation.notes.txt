@@ -1,0 +1,60 @@
+{
+Die wichtigste Grundlage in der Bekämpfung der Geldwäsche, ist die Transparenz von allen Beteiligten einer Geschäftsbeziehung oder eines Geldtransfers, sowie die Festellung der Herkunft der Finanzmittel.
+}
+Idee der Geldwäschebekämpfung:
+    
+    - Durchsichtigkeit von Transaktionsbeteiligten und des bewegten Finanzmittel.
+
+{
+Zur Vorbeugung von Geldwäsche, schreibt das Gesetzt (Gesetz über das Aufspüren von Gewinnen aus schweren Straftaten bzw. GWG(Geldwäschegesetzt)) bestimmte sogenannten 'Sorgfalten' vor, welche von allen im Gesetzt erwähnten Verantwortlichen nach zu kommen sind.
+}
+Gesetzlich verankerte Pflichten (sogennante Sorgfaltspflichten):
+
+    - Identifizierung
+    {
+    Personendaten, bei natürlicher Person.
+    Geschäftsdaten bei juristischer Person.
+    Interessant, kann Bundesministerium des Inneren im Einvernehmen mit Bundesministerium für Finanzen OHNE ZUSTIMMUNG BUNDESRAT weitere Dokumente bestimmen.
+    }
+    - Zweck und Art der Geschäftsbeziehung
+    {
+    Wenn sich dies nicht zweifelsfrei aus Geschäftsbeziehung ergibt.
+    }
+    - Prüfen über wirtschaftliche Berechtigung
+    {
+    Jede natürliche Person, in deren Eigentum oder unter deren Kontrolle der Vertragspartner letztlich steht, oder die natürliche Person, auf deren Veranlassung eine Transaktion letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird.
+    Jede natürliche Person welche mehr als 25 Prozent Kapitalanteile oder Stimmrechte kontrolliert.
+    }
+    - Kontinuierliche Überwachung Transaktionen
+        + Herkunft Vermögenswerte
+        + Gültigkeit wirtschaftlicher Berechtigung
+    - Aufbewahrung von Unterlagen von mind. 5 Jahre
+    {
+    Dokumentation über eingeholte Informationen, wie Identifikation oder Nachforschung sowie alle Transaktionen.
+    Frist gilt jeweils ab Ende des Kalenderjahres des Abschlusses der Geschäftsbeziehung bzw. spätestens Ende des Kalenderjahres der Feststellung der Identität.
+    }
+
+    {
+    Falls es dem Verantwortlichen nicht möglich ist, diesen Pflichten nach zu kommen, ist die Geschäftsbeziehung umgehen zu beenden oder erst gar nicht ein zu gehen.
+    }
+
+Vorraussetzungen des unbedingten Nachkommens der Sorgfaltspflichten
+    
+    Beginn einer Geschäftsbeziehung
+
+    Transaktion von >= 15000€ ausserhalb einer Geschäftsbeziehung
+    {
+    Kann auch aus mehreren Transaktionen bestehen, welche Anhaltspunkte für Verbindung besitzten.
+    }
+
+    Begründeter Verdacht 
+
+        Terrorismusfinanzierung
+
+        Finanzquelle von Straftat
+
+    Zweifel
+
+        Identität
+
+        Wirtschaftliche Berechtigung
