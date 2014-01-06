@@ -175,6 +175,19 @@ Quelle: http://www.focus.de/finanzen/boerse/gold/gold-gegen-bares-die-italiener-
 	            Sorgsames betreiben von Datenverarbeitungssystemen
 	            {}
 
+    \begin{thebibliography}{999}
+
+        \bibitem {ZitatEuRichtlinien} Die Bundesregierung freut sich, der Europäischen K
+        ommission mitteilen zu können, dass
+        in allen Bundesländern die zuständigen Behörden (...)
+        nunmehr bestimmt sind.
+
+        \bibitem [Mitschrift einer WDR Sendung zum Thema Geldwäsche] {EuRichtlinienProblem} \url{http://www.wdr.de/tv/monitor/sendungen/2012/0908/pdf/geldwaesche.pdf}, Stand 06.03.2010
+        
+    \end{thebibliography}
+
+    \bibliography{literatur}
+
 	{Weiterhin gilt das Personen, welche Bargeld über Grenzen bewegen, alle Summen die 10000€ übersteigen, vorher an zu melden haben. Sonst handelt es sich um eine Ordnungswidrigkeit und kann zu einem Verdacht der Geldwäsche führen.}
 	Zusatz
 

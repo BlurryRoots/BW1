@@ -16,15 +16,18 @@ Gesetzlich verankerte Pflichten (sogennante Sorgfaltspflichten):
     Geschäftsdaten bei juristischer Person.
     Interessant, kann Bundesministerium des Inneren im Einvernehmen mit Bundesministerium für Finanzen OHNE ZUSTIMMUNG BUNDESRAT weitere Dokumente bestimmen.
     }
+	
     - Zweck und Art der Geschäftsbeziehung
     {
     Wenn sich dies nicht zweifelsfrei aus Geschäftsbeziehung ergibt.
     }
+	
     - Prüfen über wirtschaftliche Berechtigung
     {
     Jede natürliche Person, in deren Eigentum oder unter deren Kontrolle der Vertragspartner letztlich steht, oder die natürliche Person, auf deren Veranlassung eine Transaktion letztlich durchgeführt oder eine Geschäftsbeziehung letztlich begründet wird.
     Jede natürliche Person welche mehr als 25 Prozent Kapitalanteile oder Stimmrechte kontrolliert.
     }
+	
     - Kontinuierliche Überwachung Transaktionen
         + Herkunft Vermögenswerte
         + Gültigkeit wirtschaftlicher Berechtigung
